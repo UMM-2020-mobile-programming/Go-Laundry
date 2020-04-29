@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TugasBesarLaundry</string>
+    <string name="title_activity_antar">Map</string>
+    <string name="title_activity_ambil">Map</string>
+</resources>
