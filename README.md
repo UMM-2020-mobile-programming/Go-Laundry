@@ -1,4 +1,4 @@
-# TugasBesarLaundry
+# Tugas Besar Go-Laundry
 
 Nama Kelompok :
 1. Aaliyah Lusianti (201810370311074)
